@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://magenta-sparrow-a8c2c.netlify.app"
 }
